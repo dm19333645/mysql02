@@ -1,2 +1,1 @@
-# mysql02
-数据库02
+#mysql 02 nmy02
